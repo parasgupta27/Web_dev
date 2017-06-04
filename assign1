@@ -1,0 +1,22 @@
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Assignment 1</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<link rel="stylesheet" href="style1.css" type="text/css">
+	</head>
+	<body>
+	  <h1 class="cen"><em>This is a heading!</em></h1>
+	  <br/>
+	  <br/>
+	  <br/>
+	  <br/>
+	  <h2 id="r">Pythagoras Theorem</h2>
+	  <br/>
+	  <br/>
+	  <br/>
+	  <br/>
+	  <h2 class="cen">a<sup><span class="s">2</span></sup>+b<sup>2</sup>=c<sup><span class="s">2</span></sup></h2>
+	</body>
+</html>
