@@ -1,4 +1,4 @@
-div {
+.main {
     width: 600px;
     border: 4px solid black;
     padding: 25px;
@@ -11,4 +11,9 @@ div {
 }
 body{
 	background-color:grey;
+}
+.link{
+	position:absolute;
+	top:180px;
+	right:330px;
 }
