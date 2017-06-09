@@ -1,0 +1,101 @@
+.main{
+	background-color:#3b5998;
+	height:45px;
+	position:absolute;
+	top:0px;
+	left:0px;
+	right:0px;
+}
+.img{
+	height:25px;
+	width:25px;
+	position:absolute;
+	top:10px;
+	left:20px;
+	border-radius:3px;
+}
+.search{
+	height:20px;
+	width:400px;
+	position:absolute;
+	top:10px;
+	left:55px;
+}
+.icon_search{
+	height:25px;
+	width:25px;
+	position:absolute;
+	top:10px;
+	left:460px;
+	background-color:white;
+}
+.profile_pic{
+	height:25px;
+	width:25px;
+	position:absolute;
+	top:10px;
+	left:650px;
+	border-radius:3px;
+}
+.profile_name{
+	height:10px;
+	
+	position:absolute;
+	top:14px;
+	left:681px;
+}
+a{
+	text-decoration:none;
+	color:white;
+	font-weight:bold;
+	font-family:arial;
+}
+.vr_line{
+	height:20px;
+	width:0px;
+	position:absolute;
+	top:4px;
+	left:731px;
+	border-color:#3b5998;
+}
+.home{
+	height:20px;
+	position:absolute;
+	top:14px;
+	left:739px;
+}
+.friend{
+	height:25px;
+	width:25px;
+	position:absolute;
+	top:10px;
+	left:815px;
+}
+.mess{
+	height:23px;
+	width:23px;
+	position:absolute;
+	top:11px;
+	left:853px;
+}
+.note{
+	height:23px;
+	width:23px;
+	position:absolute;
+	top:11px;
+	left:887px;
+}
+.help{
+	height:23px;
+	width:23px;
+	position:absolute;
+	top:11px;
+	left:960px;
+}
+.arrow{
+	height:10px;
+	width:10px;
+	position:absolute;
+	top:18px;
+	left:990px;
+}
